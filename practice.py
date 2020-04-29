@@ -13,4 +13,4 @@ while True:
 print(products)
 
 for p in products: #印出清單中的每個東西
-	print(p[0], '是來自於', p[2]) #印出每一個小清單的第0格及價格
+	print(p[0], '產地是來自於', p[2]) #印出每一個小清單的第0格及價格
